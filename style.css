@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to bottom, #2F80ED 32%, transparent 32%);
+    height: 100vh;
+    margin: 0;
+}
+h1{
+    font-size: 25px;
+    color: whitesmoke;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+section{
+     position: relative;
+     left: 100px;
+
+}
+.fourth{
+    position: relative;
+    left: 1550px;
+    bottom: 424px;
+}
+p{
+    color: black;
+    position: relative;
+    left: 1400px;
+    bottom: 300px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
